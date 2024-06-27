@@ -1,8 +1,9 @@
 package com.example.googlesearch_recommendation.service;
 
 
-import com.example.searchsuggestion.model.SearchQuery;
-import com.example.searchsuggestion.repository.SearchQueryRepository;
+
+import com.example.googlesearch_recommendation.model.SearchQuery;
+import com.example.googlesearch_recommendation.repository.SearchQueryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
